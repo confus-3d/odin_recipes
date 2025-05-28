@@ -1,0 +1,48 @@
+* {
+    outline: 1px solid red;
+}
+
+body {
+    margin: 20px;
+}
+
+.paper {
+    background-color:khaki;
+    padding-bottom: 50px;
+
+}
+
+.header {
+    background-color: darkgoldenrod;
+    display: flex;
+}
+
+.boton {
+
+}
+
+.title {
+    font-family: 'Brush Script MT', serif;
+    font-size: 50px;
+    display: block;
+    width: 300px;
+    margin: 0px auto 0px auto;
+    text-align: center;
+}
+
+ul,
+ol {
+    width: 300px;
+    margin: 0px auto 0px auto;
+
+}
+
+h2 {
+    padding-left: 50px;
+}
+
+.plato {
+    width: 400px;
+    display: block;
+    margin: auto;
+}
